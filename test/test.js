@@ -11,4 +11,5 @@ function setup() {
 
 function draw() {
   image(0,0);
+  background(255,0,0); 
 }
